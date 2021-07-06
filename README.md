@@ -2,7 +2,7 @@
 
 Hi, I'm Thiago Carvalho, am a dev passionate about technology and communication.
 
--  I'm currently a student at Senai!
+-  I'm currently a student software and web development!
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/thiago-c-a47428142/detail/contact-info/)
 - 📫 How to reach me: [@tithicarvalho](https://www.instagram.com/tithicarvalho/)
 
