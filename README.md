@@ -5,9 +5,6 @@ Hi, I'm Thiago Carvalho, am a dev passionate about technology and communication.
 -  I'm currently a student software and web development!
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/thiago-c-a47428142/detail/contact-info/)
 - 📫 How to reach me: [@tithicarvalho](https://www.instagram.com/tithicarvalho/)
-
-<br />
-
 ### Connect with me:
 
 <p align="left">
@@ -27,24 +24,24 @@ Hi, I'm Thiago Carvalho, am a dev passionate about technology and communication.
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tithicarvalho/"/></a>
 </p>  
-<br />
-<br />
-
 <p align="left">
 Languages and Tools:
 </p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
-<br />
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NodeJS](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+  
+  **Ultilidades**
+  
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
 ### Development Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br />
-<br />
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ### DevOps
 
