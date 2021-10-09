@@ -1,17 +1,17 @@
 ### Hi there! 😎
 
 
-
 Hi, I'm Thiago Carvalho, am a dev passionate about technology and communication.
 
+
 -  I'm currently a student software and web development!
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/thiago-c-a47428142/detail/contact-info/)
+- - 💬 Ask me about anything [here](https://www.linkedin.com/in/thiago-de-abreu/)
 - 📫 How to reach me: [@tithicarvalho](https://www.instagram.com/tithicarvalho/)
 ### Connect with me:
 
 <p align="left">
-    < A href = " mailto:tigoabreu@hotmail.com " alt = " Hotmail " >
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tigoabreu@hotmail.com" /></a>
+    <a href = "mailto:tigoabreu@hotmail.com" alt = " hotmail ">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tigoabreu@hotmail.com"/> </a>
 
   <a href="https://www.linkedin.com/in/thiago-de-abreu/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-c-a47428142/" /></a>
