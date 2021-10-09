@@ -10,7 +10,7 @@ Hi, I'm Thiago Carvalho, am a dev passionate about technology and communication.
 ### Connect with me:
 
 <p align="left">
-    < A href ="mailto: tigoabreu@hotmail.com" alt= "Hotmail" >
+    < A href = " mailto:tigoabreu@hotmail.com " alt = " Hotmail " >
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tigoabreu@hotmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/thiago-de-abreu/" alt="Linkedin">
